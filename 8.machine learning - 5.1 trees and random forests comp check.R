@@ -36,12 +36,8 @@ fit <- randomForest(y~x, data = dat) # this line of code is the answer.
 #Q5 Use plot() to see if the random forest from Q4 has converged, or if we need more trees
   plot(fit)
   
-<<<<<<< HEAD
 #Q6 it seems the default values for the random forest result in an estimate that is too flexible (unsmooth)
-=======
-#Q6 it seems the defauly values for the random forest result in an estimate that is too flexible (unsmooth)
->>>>>>> ca00004279b08a0e20d3bb04e96f1757bfb5bdde
-  #re-run the random forest but this time with a node size of 50 and a max of 25 nodes.  Remake the plot.
+#re-run the random forest but this time with a node size of 50 and a max of 25 nodes.  Remake the plot.
   
   library(randomForest)
   fit <- randomForest(y~x, data = dat, 

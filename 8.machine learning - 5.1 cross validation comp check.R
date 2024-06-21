@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 #8.machine learning - 5.1 cross validation comp check
-=======
-#8.machine learning - cross validation comp check
->>>>>>> ca00004279b08a0e20d3bb04e96f1757bfb5bdde
 #Q1
 #generate a set of random predictors using the following code:
 library(tidyverse)
