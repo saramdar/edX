@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 #8.machine learning - 5.1 caret and loess packages
-=======
+
 #8.machine learning - caret and loess packages
->>>>>>> ca00004279b08a0e20d3bb04e96f1757bfb5bdde
+
 #caret
 library(tidyverse)
 library(dslabs)
